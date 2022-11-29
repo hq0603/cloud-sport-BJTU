@@ -1,0 +1,74 @@
+{
+	"hot": [{
+			"news_title": "篮球3V3竞赛",
+			"news_cover": "https://cloud-sports-1302510758.cos.ap-beijing.myqcloud.com/common/f65020220211105309.jpeg",
+			"news_start_date": "4月5日",
+			"news_end_date": "4月30日",
+			"news_sign_count": 28
+		},
+		{
+			"news_title": "击剑比赛",
+			"news_cover": "https://cloud-sports-1302510758.cos.ap-beijing.myqcloud.com/common/f69620220211105310.jpeg",
+			"news_start_date": "4月3日",
+			"news_end_date": "4月10日",
+			"news_sign_count": 13
+		},
+		{
+			"news_title": "篮球5V5竞赛",
+			"news_cover": "https://cloud-sports-1302510758.cos.ap-beijing.myqcloud.com/common/f97520220211105311.jpeg",
+			"news_start_date": "5月1日",
+			"news_end_date": "5月30日",
+			"news_sign_count": 57
+		},
+		{
+			"news_title": "城市青少年足球赛",
+			"news_cover": "https://cloud-sports-1302510758.cos.ap-beijing.myqcloud.com/common/f59420220211105312.jpeg",
+			"news_start_date": "5月1日",
+			"news_end_date": "5月20日",
+			"news_sign_count": 82
+		},
+		{
+			"news_title": "校际羽毛球友谊赛",
+			"news_cover": "https://cloud-sports-1302510758.cos.ap-beijing.myqcloud.com/common/f22120220211105314.jpeg",
+			"news_start_date": "5月3日",
+			"news_end_date": "5月15日",
+			"news_sign_count": 65
+		}
+	],
+	"competition": [{
+			"news_title": "校际羽毛球友谊赛",
+			"news_cover": "https://cloud-sports-1302510758.cos.ap-beijing.myqcloud.com/common/f22120220211105314.jpeg",
+			"news_start_date": "5月5日",
+			"news_end_date": "5月15日",
+			"news_sign_count": 65
+		},
+		{
+			"news_title": "篮球3V3竞赛",
+			"news_cover": "https://cloud-sports-1302510758.cos.ap-beijing.myqcloud.com/common/f65020220211105309.jpeg",
+			"news_start_date": "4月5日",
+			"news_end_date": "4月30日",
+			"news_sign_count": 28
+		},
+		{
+			"news_title": "城市青少年足球赛",
+			"news_cover": "https://cloud-sports-1302510758.cos.ap-beijing.myqcloud.com/common/f59420220211105312.jpeg",
+			"news_start_date": "5月1日",
+			"news_end_date": "5月30日",
+			"news_sign_count": 82
+		},
+		{
+			"news_title": "篮球5V5竞赛",
+			"news_cover": "https://cloud-sports-1302510758.cos.ap-beijing.myqcloud.com/common/f97520220211105311.jpeg",
+			"news_start_date": "5月1日",
+			"news_end_date": "5月30日",
+			"news_sign_count": 57
+		},
+		{
+			"news_title": "击剑比赛",
+			"news_cover": "https://cloud-sports-1302510758.cos.ap-beijing.myqcloud.com/common/f69620220211105310.jpeg",
+			"news_start_date": "4月3日",
+			"news_end_date": "4月10日",
+			"news_sign_count": 13
+		}
+	]
+}

@@ -1,0 +1,274 @@
+{
+	"pages": [
+		{
+            "path" : "pages/home/home",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "云体育",
+                "enablePullDownRefresh": false
+            }
+        },
+		{
+			"path": "pages/cloud-classroom/cloud-classroom",
+			"style": {
+				"navigationBarTitleText": "云体育",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/sports-schedule/sports-schedule",
+			"style": {
+				"navigationBarTitleText": "云体育",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/square/square",
+			"style": {
+				"navigationBarTitleText": "云体育",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "云体育"
+			}
+		},
+		{
+			"path": "pages/test/test",
+			"style": {
+				"navigationBarTitleText": "云体育",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/sports-test/sports-test",
+			"style": {
+				"navigationBarTitleText": "云体育",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "云体育",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/competition/competition",
+			"style": {
+				"navigationBarTitleText": "云体育",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/sports-purpose-one/sports-purpose-one",
+			"style": {
+				"navigationBarTitleText": "计划创建",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/sports-mode/sports-mode",
+			"style": {
+				"navigationBarTitleText": "计划创建",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/sports-purpose-two/sports-purpose-two",
+			"style": {
+				"navigationBarTitleText": "计划创建",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/sports-time/sports-time",
+			"style": {
+				"navigationBarTitleText": "计划创建",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/sports-intensity/sports-intensity",
+			"style": {
+				"navigationBarTitleText": "计划创建",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/schedule-length/schedule-length",
+			"style": {
+				"navigationBarTitleText": "计划创建",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/schedule-generation/schedule-generation",
+			"style": {
+				"navigationStyle": "custom",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/schedule-details-one/schedule-details-one",
+			"style": {
+				"navigationBarTitleText": "计划详情",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/schedule-details-two/schedule-details-two",
+			"style": {
+				"navigationBarTitleText": "计划详情",
+				"enablePullDownRefresh": false
+			}
+		}
+	    ,{
+            "path" : "pages/news-detail/news-detail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/login/login",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/cloud-classroom/communication/communication",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/cloud-classroom/communication/reply/reply",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/competition/detail/detail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/camera/camera",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/userInfo/userInfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/user/user",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/test-score/test-score",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/webview/webview",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/homework-score/homework-score",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"tabBar": {
+		"color": "#C0C4CC",
+		"selectedColor": "#3491FA",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/home/home",
+			"iconPath": "static/home.png",
+			"selectedIconPath": "static/home (1).png",
+			"text": "首页"
+			},
+		// }, {
+		// 	"pagePath": "pages/sports-schedule/sports-schedule",
+		// 	"iconPath": "static/hui/schedule.png",
+		// 	"selectedIconPath": "static/full/schedule.png",
+		// 	"text": "锻炼计划"
+		// }, {
+		// 	"pagePath": "pages/sports-test/sports-test",
+		// 	"iconPath": "static/hui/sport.png",
+		// 	"selectedIconPath": "static/full/sport.png",
+		// 	"text": "体育测试"
+		// }, {
+		// 	"pagePath": "pages/square/square",
+		// 	"iconPath": "static/hui/square.png",
+		// 	"selectedIconPath": "static/full/square.png",
+		// 	"text": "广场"
+		// }, {
+			{
+			"pagePath": "pages/competition/competition",
+			"iconPath": "static/ranking.png",
+			"selectedIconPath": "static/ranking_fill.png",
+			"text": "竞赛系统"
+		},
+		{
+			"pagePath": "pages/user/user",
+			"iconPath": "static/bussiness-man.png",
+			"selectedIconPath": "static/bussiness-man (1).png",
+			"text": "个人中心"
+		}]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	"condition": {
+		"current": 0,
+		"list": [{
+			"name": "",
+			"path": "",
+			"query": ""
+		}]
+	}
+}
